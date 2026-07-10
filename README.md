@@ -1,4 +1,4 @@
-# Praticando Listas e Tuplas
+# 🐍 Praticando Listas e Tuplas
 
 Projeto de estudo com exercícios práticos utilizando **listas** e **tuplas** em Python.
 
@@ -10,7 +10,7 @@ Projeto de estudo com exercícios práticos utilizando **listas** e **tuplas** e
 - Correção e remoção de itens em listas
 - Registro e verificação de dados (alunos, voluntários, estoque, convidados)
 
-## Exercícios
+## 📂 Exercícios
 
 - `Calculando_notas.py`
 - `Corrigindo_posicao_lista.py`
@@ -23,14 +23,20 @@ Projeto de estudo com exercícios práticos utilizando **listas** e **tuplas** e
 - `Unindo_relatorio_estoque_tupla.py`
 - `Verificando_itens_despensa.py`
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - Python
 
-## Como rodar
+## 🚀 Como rodar
 
 ```bash
 git clone https://github.com/FelZimmer/Praticando_listas_tuplas.git
 cd Praticando_listas_tuplas
 python nome_do_arquivo.py
 ```
+## 👤 Autor
+
+**Felipe de Oliveira Zimmermann**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-zimmermann)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelZimmer)
